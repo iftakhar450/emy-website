@@ -1,0 +1,35 @@
+{
+	"name": "emy",
+	"version": "1.0.0",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"async": "^2.6.1",
+		"bcryptjs": "^2.4.3",
+		"body-parser": "1.15.2",
+		"ejs": "2.3.3",
+		"express": "4.13.4",
+		"jsonwebtoken": "^8.3.0",
+		"sails-mongo": "^1.0.1",
+		"sails-mysql": "0.12.2",
+		"waterline": "0.12.2"
+
+	},
+	"author": "iftakhar",
+	"license": "MIT",
+	"engines":{
+
+		"node":"8.9.1"
+	},
+	"repository":{
+
+			"type":"git",
+			"url":"https://Iftakhar45@bitbucket.org/Iftakhar45/emy.git"
+
+	},
+	
+
+	"keywords":["node" , "heroku", "express"]
+
+}
